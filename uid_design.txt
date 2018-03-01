@@ -1,0 +1,26 @@
+Naming Convention
+	Put the type of object it is in front of the object name. No more "Form1" or "Button1"
+	Ex:
+		btnQuit
+		lblTitle
+		frmMain
+		txtbInput
+		pnlOrders		--> panel
+		cmlbListBoxIDs		--> combo list box
+
+enum classification("Manager", "Trainee", "Employee");
+
+struct employee {
+	int ID;
+	string Fname;
+	string Lname;
+	string password;
+	vector< /* something for time seconds */>shifts;
+	vector<order> ordersMade;
+};
+
+
+
+cooperation between Microsoft Visual Studio and github
+
+make git work on windows 10 command line using powershell
