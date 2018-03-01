@@ -1,0 +1,21 @@
+Guys, I found this stack overflow post on how to add git to the Windows 10 command line in PowerShell.
+
+
+
+//-------------
+
+Simply uncompress the latest "git for windows release" [1] portable archive (like PortableGit-2.7.2-64-bit.7z.exe [2]) anywhere you want and add to your PATH:
+
+ c:\path\to\git;c:\path\to\git\bin;c:\path\to\git\usr\bin;c:\path\to\git\mingw64\bin
+
+
+You will get git-bash.exe (recent 4.3+ bash based on msys2 [3]), but also 200+ unix commands right in your regular CMD shell.
+
+//-------------
+
+Links::
+
+
+[1] https://github.com/git-for-windows/git/releases
+[2] https://github.com/git-for-windows/git/releases/download/v2.7.2.windows.1/PortableGit-2.7.2-64-bit.7z.exe
+[3] https://stackoverflow.com/a/35099458/6309
