@@ -22,5 +22,3 @@ struct employee {
 
 
 cooperation between Microsoft Visual Studio and github
-
-make git work on windows 10 command line using powershell
