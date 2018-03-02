@@ -19,3 +19,12 @@ Links::
 [1] https://github.com/git-for-windows/git/releases
 [2] https://github.com/git-for-windows/git/releases/download/v2.7.2.windows.1/PortableGit-2.7.2-64-bit.7z.exe
 [3] https://stackoverflow.com/a/35099458/6309
+
+
+
+
+
+Other Ideas:
+
+
+- I've heard of something called "Git For Windows" that comes with a built in Git Bash that could be helpful. Will look more into it.
