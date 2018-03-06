@@ -29,3 +29,4 @@ Other Ideas:
 
 - I've heard of something called "Git For Windows" that comes with a built in Git Bash that could be helpful. Will look more into it.
 	LINK: https://gitforwindows.org/
+ - okay this is kind of a complex setup. I don't want to mess with it but I encourage you to look at it to see if you'd like to.
