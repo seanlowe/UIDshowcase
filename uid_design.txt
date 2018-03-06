@@ -22,3 +22,10 @@ struct employee {
 
 
 cooperation between Microsoft Visual Studio and github
+
+
+Syntax Differences between C# and VB
+	C#			VB
+	--------------------------
+	this			me
+	ref			&
