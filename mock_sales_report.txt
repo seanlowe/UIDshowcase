@@ -1,0 +1,24 @@
+	        "Business Name" - Enhanced Access Point of Sales
+
+			      Sales Report for
+  			  __MONTH__ __DAY__, __YEAR__
+
+-------------------------------------------------------------------------------
+
+Sale Type		Quantity		Amount Sales
+
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+XXXX			xxxx			xxxx
+
+
+-------------------------------------------------------------------------------
+TOTALS:			somenumber		reallybignumber
+
+
+GOAL:			ashkajdkas		akjfhajkgja
