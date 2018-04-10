@@ -1,0 +1,20 @@
+
+
+	        "Business Name" - Enhanced Access Point of Sales
+
+			      Order History for
+  			  __MONTH__ __DAY__, __YEAR__
+
+-------------------------------------------------------------------------------
+
+Order Number	   Time of Sale	      Cashier	      Sale Price
+
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+   XXXX              XX:XX:XX          XXXX             $XX.XX
+
+
