@@ -7,7 +7,7 @@ Repo contains file and folders for the EAPOS - Enhanced Access Point of Sale Sys
 EAPOS - Enhanced Access Point of Sales. Student project for User Interface Design class. We presented an abstract stating that current POS systems lack usability, accessibility and ease of use. We used used UID principles to create a functioning POS that attempts to address them all.
 
 <p>
-    <img src="EAPOS-LOGO2.png">
+    <img src="/Resources/img/EAPOS-LOGO2.png">
 </p>
 
 # Team Members:
