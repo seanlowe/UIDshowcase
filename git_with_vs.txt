@@ -1,4 +1,0 @@
-This is a link I found online about how to get 'git' to work with Microsoft Visual Studio:
-
-
-https://docs.microsoft.com/en-us/vsts/git/gitquickstart?tabs=visual-studio

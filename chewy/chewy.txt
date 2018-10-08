@@ -1,4 +1,0 @@
-Chewy,
-
-
-This folder is where you will plant all your work for the UID Student Showcase project. Easier to make folders than a bunch of branches.
