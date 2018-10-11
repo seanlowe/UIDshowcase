@@ -1,8 +1,3 @@
-# UIDshowcase
-Repo for the Spring 2018 User Interface Design Student Showcase Project
-
-Repo contains file and folders for the EAPOS - Enhanced Access Point of Sale System which won the 4A track of the 2018 Student Showcase at Colorado Mesa University.
-
 # EAPOS
 EAPOS - Enhanced Access Point of Sales. Student project for User Interface Design class. We presented an abstract stating that current POS systems lack usability, accessibility and ease of use. We used used UID principles to create a functioning POS that attempts to address them all.
 
