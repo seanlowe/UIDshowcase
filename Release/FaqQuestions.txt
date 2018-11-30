@@ -1,0 +1,5 @@
+How do I add an item?|Just select the item you wish to add and the item should be added on the order mennu with the price right next to it|Void
+How do I delete an Item?|To delete an item just select the item you want to delete and press the delete button. ALternatively you can also just click the quantity of an item and set it to zero to remove the item|Void
+How do I add a message to an item?|Certain items might require an additional message to accomadate certain options for the customer. Just click the item you wish to add a message to and type the message you want. Afterwards just press enter and the message should be set|Manager
+How do I add employees to the register database?|Firstly, you must be a manager to be able to access these functions but otherwise you should be able to access the menues. Once you are in the admin menus go to employees and fill out the information needed to submit.|Manager
+Add`|Here|Void
