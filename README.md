@@ -49,7 +49,7 @@ systems or are a first-time user, learning this system will be a breeze.
 **Login Screen:**
 <img src="/Screenshots/LogInScreen.PNG">
 
-**ManagerGreeting (Admin only)**
+**ManagerGreeting (Admin only):**
 <img src="/Screenshots/ManagerGreeting.PNG">
 
 **Ordering Menu:**
@@ -64,6 +64,6 @@ systems or are a first-time user, learning this system will be a breeze.
 **Employee Management:**
 <img src="/Screenshots/Employees.PNG">
 
-**TrainingMode (New Employee)**
+**TrainingMode (New Employee):**
 <img src="/Screenshots/TrainingMode.PNG">
 
