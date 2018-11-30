@@ -47,5 +47,5 @@ systems or are a first-time user, learning this system will be a breeze.
 <h2>Screeshots:</h2>
 
 **Login Screen:**
-<img src="/Screenshots/LoginScreen.PNG">
+<img src="/Screenshots/LogInScreen.PNG">
 
