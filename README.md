@@ -43,3 +43,9 @@ systems or are a first-time user, learning this system will be a breeze.
       <a href="https://www.microsoft.com/en-us/download/details.aspx?id=13255" target="_blank">AccessDatabaseEngine.exe</a></li>
   <li>Run the executable: EAPOS-Project.exe </li>
 </ol>
+
+<h2>Screeshots:</h2>
+
+**Login Screen:**
+<img src="/Screenshots/LoginScreen.PNG">
+
