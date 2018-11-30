@@ -35,3 +35,8 @@ systems or are a first-time user, learning this system will be a breeze.
   <li>Winners of Computer Science, Mathematics and Statistics, Track 4A</li>
   <li>Presenters: Scott Lowe, James Mathson, Riad Shash, Jesus Velasquez</li>
 </ul>
+
+# Install & Run (Windows only):
+1. Install: Microsoft Access Database Engine 2010 Redistributable (32-bit - x86)
+    -AccessDatabaseEngine.exe<a href="https://www.microsoft.com/en-us/download/details.aspx?id=13255" target="_blank">AccessDatabaseEngine.exe</a>
+2. Run the executable: EAPOS-Project.exe 
