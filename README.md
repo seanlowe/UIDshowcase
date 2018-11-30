@@ -34,6 +34,7 @@ systems or are a first-time user, learning this system will be a breeze.
   <li>April 20, 2018</li>
   <li>Winners of Computer Science, Mathematics and Statistics, Track 4A</li>
   <li>Presenters: Scott Lowe, James Mathson, Riad Shash, Jesus Velasquez</li>
+  <li><a href="https://www.coloradomesa.edu/showcase/index.html" target="_blank">9th Annual Student Showcase</a></li></li>
 </ul>
 
 <h2> Install & Run (Windows only):</h2>
