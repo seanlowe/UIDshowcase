@@ -49,14 +49,21 @@ systems or are a first-time user, learning this system will be a breeze.
 **Login Screen:**
 <img src="/Screenshots/LogInScreen.PNG">
 
+**ManagerGreeting (Admin only)**
+<img src="/Screenshots/ManagerGreeting.PNG">
+
 **Ordering Menu:**
 <img src="/Screenshots/OrderingMenu.PNG">
 
-**Back Office Menu (Admin only)**
+**Back Office Menu (Admin only):**
 <img src="/Screenshots/BackOfficeMenu.PNG">
 
-**Product Management**
+**Product Management:**
 <img src="/Screenshots/ProductManagement.PNG">
 
-**Employee Management**
+**Employee Management:**
 <img src="/Screenshots/Employees.PNG">
+
+**TrainingMode (New Employee)**
+<img src="/Screenshots/TrainingMode.PNG">
+
